@@ -1,0 +1,14 @@
+{
+  "name": "a-game-about-needle-in-a-haystack-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "a-game-about-needle-in-a-haystack.wiki",
+      "custom_domain": true
+    }
+  ]
+}
