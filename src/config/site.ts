@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "A Game About Needle In A Haystack Wiki",
+  shortName: "Needle Wiki",
+  logoText: "A",
+  tagline: "Find the Needle. Master the Haystack.",
+  description: "A fan-made A Game About Needle In A Haystack wiki with gameplay guides, tool upgrades, hay-selling tips, and needle-finding strategies.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://a-game-about-needle-in-a-haystack.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://a-game-about-needle-in-a-haystack.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5321400/A_Game_About_Needle_In_A_Haystack/",
+  heroVideoId: "szT7VS6cu08", // Full gameplay walkthrough
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=szT7VS6cu08",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
