@@ -72,7 +72,7 @@
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Start with a repeatable search routine, learn the hay money loop, and avoid the habits that slow new players down.",
-          "href": "/guide/a-game-about-needle-in-a-haystack-beginner-guide"
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
         },
         {
           "badge": "Core Loop",
@@ -84,13 +84,13 @@
           "badge": "Tools",
           "title": "Tools and Upgrades",
           "description": "Compare the pitchfork, dynamite, vacuum, and upgrades that shape the way you move through the haystack.",
-          "href": "/guide/a-game-about-needle-in-a-haystack-guide"
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
         },
         {
           "badge": "Efficiency",
           "title": "Search Smarter",
           "description": "Build a repeatable sweep, protect your attention, and stop covering the same straw twice.",
-          "href": "/mechanics/a-game-about-needle-in-a-haystack-efficiency"
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
         },
         {
           "badge": "Progression",
@@ -148,7 +148,7 @@
           "order": 1,
           "name": "A Game About Needle In A Haystack Beginner Guide",
           "description": "Introduce the core gameplay loop, including digging through the haystack, collecting hay, selling it for money, and searching for the hidden needle. Provide a practical starting walkthrough to help new players understand the workshop, inventory capacity, and early progression.",
-          "href": "/guide/a-game-about-needle-in-a-haystack-beginner-guide",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -180,17 +180,17 @@
         {
           "order": 2,
           "name": "A Game About Needle In A Haystack Tools and Upgrades",
-          "description": "Compare the pitchfork, dynamite, vacuum, and detection tools by their practical role, then spend money where it improves your current search.",
-          "href": "/guide/a-game-about-needle-in-a-haystack-guide",
+          "description": "Compare the pitchfork, dynamite, and vacuum by their role in the hay loop, then spend money where it improves your current search.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Vacuum — fast cleanup for loose hay across a wide area."
+              "detail": "Vacuum — continuously collects hay and is the closest tool to true automation."
             },
             {
               "label": "A",
-              "detail": "Metal Detector — repeatable signals that narrow the search area."
+              "detail": "Pitchfork — grabs larger clumps per strike and improves every manual run."
             },
             {
               "label": "B",
@@ -198,40 +198,40 @@
             },
             {
               "label": "C",
-              "detail": "Pitchfork — controlled digging for early searches and tight spots."
+              "detail": "Dynamite — clears pits that would otherwise block access to hay."
             }
           ]
         },
         {
           "order": 3,
           "name": "A Game About Needle In A Haystack Money Farming Guide",
-          "description": "Cover the core money-making loop of collecting hay, filling the bag, and selling it at the cow. Explain how players can improve their collection efficiency and use earnings to accelerate upgrades without assuming unverified farming exploits.",
-          "href": "/mechanics/a-game-about-needle-in-a-haystack-factory",
+          "description": "Build a repeatable money loop around digging hay, filling the bag, selling it at the cow, and buying the next useful workshop upgrade.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Dig through the haystack and collect the straw you uncover."
+              "detail": "Dig hay by hand in one focused section so your gathering route stays easy to repeat."
             },
             {
               "label": "2",
-              "detail": "Watch the bag and stop before capacity forces an early return."
+              "detail": "Fill the bag before returning, and buy capacity early if short trips slow your income."
             },
             {
               "label": "3",
-              "detail": "Carry the full load back to the cow."
+              "detail": "Carry the collected hay to the cow, the game's selling point."
             },
             {
               "label": "4",
-              "detail": "Sell the hay to convert the trip into cash."
+              "detail": "Sell the full load to turn straw into workshop money."
             },
             {
               "label": "5",
-              "detail": "Choose a tool or upgrade that removes the current bottleneck."
+              "detail": "Choose the upgrade that removes your current bottleneck, starting with capacity, speed, or a pitchfork."
             },
             {
               "label": "6",
-              "detail": "Repeat the loop and measure whether each run clears more hay."
+              "detail": "Repeat the dig-carry-sell loop and let better tools scale each run."
             }
           ]
         },
@@ -272,7 +272,7 @@
           "order": 5,
           "name": "A Game About Needle In A Haystack Tips and Tricks",
           "description": "Collect practical tips for managing inventory, choosing tools, selling collected hay, and balancing faster collection with equipment limitations. Include beginner-friendly strategies grounded in the game's documented mechanics.",
-          "href": "/mechanics/a-game-about-needle-in-a-haystack-efficiency",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
           "displayType": "card-list",
           "highlights": [
             {
@@ -318,7 +318,7 @@
             },
             {
               "label": "Tools",
-              "detail": "The pitchfork, dynamite, vacuum, and detection gear support different search approaches."
+              "detail": "The pitchfork, dynamite, and vacuum support bigger clumps, cleared access, and continuous collection."
             },
             {
               "label": "Players",
@@ -369,26 +369,30 @@
         },
         {
           "order": 8,
-          "name": "A Game About Needle In A Haystack Reviews and Updates",
-          "description": "Summarize player feedback, the overall review sentiment, and developer announcements available through the official Steam store and community channels. Keep this section updated as new reviews and game information become available.",
-          "href": "/community/a-game-about-needle-in-a-haystack-review",
+          "name": "A Game About Needle In A Haystack Steam Guide",
+          "description": "Review the verified Steam facts for A Game About Needle In A Haystack, including its release timeline, App ID, mode, achievements, and platform details.",
+          "href": "/platforms/a-game-about-needle-in-a-haystack-steam",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Reviews",
-              "detail": "Steam launch snapshot: 60% positive across 96 user reviews."
+              "label": "App ID",
+              "detail": "5321400 on SteamDB."
             },
             {
               "label": "Launch",
-              "detail": "Released on PC via Steam on October 16, 2026."
+              "detail": "October 16, 2026 at 17:22:52 UTC."
+            },
+            {
+              "label": "First seen",
+              "detail": "September 23, 2026 on SteamDB."
             },
             {
               "label": "Studio",
-              "detail": "Developed and published by Little Field Studios."
+              "detail": "Little Field Studios developed and published the game."
             },
             {
-              "label": "Updates",
-              "detail": "Follow the Steam community hub for patch notes and announcements."
+              "label": "Features",
+              "detail": "Single-player only, with Steam Achievements and Steam Stats."
             }
           ]
         }
