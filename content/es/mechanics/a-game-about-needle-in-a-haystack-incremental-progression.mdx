@@ -1,0 +1,123 @@
+export const metadata = {
+  title: "A Game About Needle In A Haystack: progresión incremental y cómo funciona realmente el bucle de búsqueda",
+  description: "Un análisis de la progresión incremental de A Game About Needle In A Haystack: el bucle central, las prioridades de mejora, el ritmo y los errores que frenan tu búsqueda.",
+  category: "mechanics",
+  date: "2026-10-21",
+}
+
+## Por qué el chiste solo funciona gracias a los números
+
+Una aguja en un pajar es la metáfora más antigua de una tarea imposible, y convertir esa metáfora en un juego jugable solo funciona si los números que hay detrás no dejan de moverse. Eso es exactamente lo que está diseñado para hacer **la progresión incremental de A Game About Needle In A Haystack**: toma una búsqueda imposible y, poco a poco, deliberadamente, la vuelve posible. Entender cómo funciona ese motor de progresión marca la diferencia entre machacar sin rumbo y terminar partidas en una fracción del tiempo.
+
+La mayoría de los jugadores abandonan los juegos de búsqueda porque los tratan como puzles de objetos ocultos: escanear a fondo, hacer clic rápido y confiar en la suerte. Pero **la progresión incremental de A Game About Needle In A Haystack** recompensa una mentalidad completamente distinta. En realidad no estás buscando una aguja. Estás mejorando la búsqueda en sí hasta que el pajar deja de ser un muro y empieza a ser una hoja de cálculo. Cuando eso encaja, el juego se abre.
+
+El juego está disponible en [la página oficial de la tienda de Steam de A Game About Needle In A Haystack](https://store.steampowered.com/app/5321400/A_Game_About_Needle_In_A_Haystack/), donde puedes consultar los detalles actuales de plataforma antes de lanzarte.
+
+## El bucle central detrás de la progresión incremental de A Game About Needle In A Haystack
+
+Si quitas los gráficos, casi todos los juegos incrementales siguen el mismo ritmo de cuatro tiempos: realizar una acción, recoger un recurso, gastarlo en un multiplicador y repetir más rápido. La caza de la aguja es el sabor; la cadena de multiplicadores es la máquina.
+
+Así suele resolverse ese bucle en un incremental centrado en la búsqueda:
+
+1. **Buscar** — barres el pajar, manualmente o con una herramienta automatizada, y cada barrido cuesta tiempo o un recurso limitado.
+2. **Encontrar** — una aguja (o un fragmento de una) entra en tu inventario y se convierte en moneda.
+3. **Gastar** — la moneda va a herramientas, mejoras de detección o automatización que cambian el *ritmo* de búsqueda en lugar del resultado de una sola búsqueda.
+4. **Escalar** — el pajar suele crecer para igualar tu nuevo poder, así que el bucle se reinicia en un nivel superior con mejores herramientas.
+
+La decisión de diseño clave en **la progresión incremental de A Game About Needle In A Haystack** es que el cuarto paso nunca te deja cómodo. Cada mejora que hace trivial el pajar actual tiende a desbloquear uno más grande. Eso es lo que mantiene viva la metáfora: el pajar siempre va ganando, solo que por un margen menor cada vez.
+
+### Las tres palancas que realmente estás accionando
+
+No importa cómo se llame el menú de mejoras: los juegos de búsqueda incrementales te dan tres palancas:
+
+| Palanca | Qué cambia | Por qué importa |
+|---|---|---|
+| **Velocidad de búsqueda** | Cuántos barridos por minuto | Multiplica directamente los ingresos; la inversión temprana más segura |
+| **Detección** | Probabilidad o radio de encontrar una aguja por barrido | Convierte barridos desperdiciados en aciertos |
+| **Automatización** | Búsquedas realizadas sin ti | Transforma el juego de activo a idle y desbloquea el tiempo offline |
+
+Los jugadores que reparten puntos por igual entre las tres suelen progresar más despacio que quienes apilan una palanca hasta que se estanca y entonces cambian. Eso no es un fallo: es el ritmo incremental clásico de empujar un multiplicador hasta que los rendimientos decrecientes obligan a cambiar.
+
+## Etapas de progresión: qué te pide cada fase
+
+Los juegos incrementales rara vez anuncian sus fases, pero casi siempre las tienen. La siguiente tabla describe el arco general que sigue **la progresión incremental de A Game About Needle In A Haystack**, según cómo suele ritmar el género un bucle de búsqueda.
+
+| Fase | Actividad dominante | Qué deberías estar haciendo | Qué deberías ignorar |
+|---|---|---|---|
+| **Temprana** | Búsqueda manual | Comprar repetidamente la mejora de velocidad de búsqueda más barata; aprender la tasa de hallazgo | Sistemas de prestigio, cosméticos, ramas profundas de mejoras |
+| **Media** | Semiautomatizada | Impulsar la detección para que cada barrido acierte más a menudo; empezar a ahorrar para la automatización | Hacer clic manual más allá del punto en que resulta útil |
+| **Tardía** | Gestión idle | Dejar que la automatización funcione, entrar para comprar multiplicadores y prepararte para un reinicio | Microoptimizar barridos individuales |
+| **Fase final** | Metaprogresión | Perseguir multiplicadores permanentes que sobreviven a los reinicios | Cualquier cosa que solo ayude a la partida actual |
+
+El error que casi todo el mundo comete es tratar la fase temprana como si fuera el juego entero. La búsqueda manual se siente productiva, así que los jugadores siguen haciéndola mucho después de que una mejora de automatización habría ganado más por hora. Si una compra elimina clics de tu rutina, casi siempre merece la pena.
+
+## Prioridades de mejora que realmente mueven la aguja
+
+Los menús de mejoras en los incrementales de búsqueda suelen ser amplios y superficiales: docenas de opciones, la mayoría trampas. El siguiente orden de prioridad refleja cómo tiende a recompensar la inversión **la progresión incremental de A Game About Needle In A Haystack**, y encaja limpiamente con el género en general.
+
+| Prioridad | Tipo de mejora | Razonamiento |
+|---|---|---|
+| 1 | **Aumento plano de velocidad de búsqueda** | El interés compuesto empieza aquí; cada multiplicador posterior escala desde esta base |
+| 2 | **Probabilidad de hallazgo / detección** | Elimina barridos muertos, lo que en la práctica equivale a un aumento de velocidad |
+| 3 | **Reducción de costes** | Te permite comprar las dos anteriores más a menudo por sesión |
+| 4 | **Niveles de automatización** | Convierte tiempo real en progreso mientras estás ausente |
+| 5 | **Prestigio / multiplicadores permanentes** | Solo son valiosos cuando la curva de crecimiento de la partida actual se aplana |
+| 6 | **Mejoras cosméticas o de ambientación** | Divertidas, pero sin efecto en el bucle |
+
+Una regla sencilla: si una mejora no cambia cuántas agujas consigues por minuto, por hora o por sesión, no es una mejora de progresión. Es decoración.
+
+### Vigila la curva de costes, no la etiqueta del precio
+
+El diseño incremental casi siempre usa costes crecientes: la décima copia de una mejora cuesta mucho más que la primera. Eso significa que la mejora más barata disponible no es automáticamente la mejor. Antes de comprar, compara la ganancia *marginal* con el coste *marginal*.
+
+- Si una mejora barata añade un 2 % y cuesta 100, es peor que una mejora cara que añade un 40 % por 800.
+- Si dos mejoras cuestan más o menos lo mismo, elige la que afecte al cuello de botella. Si no logras encontrar agujas, compra detección. Si las encuentras pero despacio, compra velocidad.
+- Si no sabes cuál es el cuello de botella, compra velocidad. Es la opción más indulgente en casi cualquier juego incremental.
+
+## Comparación de estilos de progresión incremental
+
+No todos los juegos de búsqueda se ritman igual. Así se sienten en la práctica distintos modelos de progresión, lo que ayuda a fijar expectativas para **la progresión incremental de A Game About Needle In A Haystack**.
+
+| Modelo | Duración de la sesión | Esfuerzo del jugador | Sensación típica |
+|---|---|---|---|
+| **Idle puro** | Minutos por consulta | Muy bajo | Relajante pero superficial; el progreso ocurre sin ti |
+| **Clicker activo** | 20–60 minutos | Alto | Gratificante pero agotador; castiga las pausas |
+| **Híbrido (el más común)** | 10–30 minutos | Medio | Activo al principio, idle al final; la curva más saludable |
+| **Bucle de prestigio** | Varias sesiones | Medio-alto | Grandes picos al reiniciar; satisfactorio pero exige planificación |
+
+Los modelos híbridos dominan porque resuelven el problema central de la metáfora: no puedes pedirle a alguien que escanee manualmente un pajar durante horas, pero tampoco puedes eliminar la fantasía de buscar. El compromiso es un juego que te entrega la lupa al principio y el detector de metales después.
+
+## Errores que estancan la progresión incremental de A Game About Needle In A Haystack
+
+Las conversaciones de la comunidad sobre incrementales de búsqueda tienden a converger en el mismo puñado de asesinos de la progresión. Ninguno tiene que ver con habilidad: tienen que ver con la atención.
+
+- **Acumular moneda sin gastarla.** La moneda sin gastar no genera nada. En un juego incremental, una cartera llena es una partida estancada.
+- **Ignorar las ganancias offline.** Muchos jugadores tratan el tiempo idle como "tiempo perdido" y nunca compran las mejoras que lo convierten. Es el mayor multiplicador gratuito disponible.
+- **Reiniciar demasiado pronto.** Los sistemas de prestigio recompensan según el progreso realizado. Reiniciar antes de que la curva se aplane suele costarte más de lo que devuelve.
+- **Invertir demasiado en una sola palanca.** Maximizar detección mientras la velocidad de búsqueda está a cero produce una búsqueda muy precisa y muy lenta.
+- **Jugar más allá del punto divertido.** Si una sesión se ha convertido en puro clic sin decisiones de compra pendientes, has superado la partida actual. Esa es la señal para reiniciar o apartarte.
+
+### Una lista de comprobación práctica para cada sesión
+
+Antes de cerrar el juego, repasa esta lista breve. Tarda menos de un minuto y evita las pérdidas nocturnas más habituales.
+
+1. Gasta toda la moneda disponible en algo que cambie tu ritmo.
+2. Confirma que la automatización está activada en el nivel más alto que posees.
+3. Comprueba si alguna mejora ha pasado a territorio de "asequible" desde tu última compra.
+4. Anota tu cuello de botella actual para saber qué comprar en la próxima sesión.
+
+Esa rutina es aburrida, y las rutinas aburridas son exactamente aquello alrededor de lo que se construyen los juegos incrementales. Los jugadores que terminan las partidas más rápido no son los que más clican, sino los que nunca dejan valor sobre la mesa.
+
+## Preguntas frecuentes
+
+**¿La progresión incremental de A Game About Needle In A Haystack es apta para jugar idle?**
+En general, sí. Como la mayoría de los incrementales de búsqueda, el juego temprano quiere tu atención y el tardío quiere tu paciencia. Una vez desbloqueados los niveles de automatización, el progreso continúa mientras estás ausente, por eso las mejoras offline suelen merecer prioridad.
+
+**¿Qué debería mejorar primero?**
+La velocidad de búsqueda. Es el valor base contra el que se acumulan todos los demás multiplicadores, y sigue siendo útil en cada fase de una partida. La detección va segunda; la automatización, tercera.
+
+**¿Reiniciar borra mi progreso?**
+En la mayoría de los juegos incrementales, un reinicio de prestigio limpia la partida actual pero conserva los multiplicadores permanentes obtenidos por el camino. Consulta la descripción dentro del juego antes de confirmar: la recompensa suele depender de cuánto hayas empujado el pajar actual.
+
+**¿Por qué el pajar no deja de crecer?**
+Porque un pajar que se queda del mismo tamaño deja de ser un juego. El crecimiento es lo que mantiene significativa la búsqueda, y la tensión entre un pajar más grande y mejores herramientas es todo el motor detrás de **la progresión incremental de A Game About Needle In A Haystack**.
