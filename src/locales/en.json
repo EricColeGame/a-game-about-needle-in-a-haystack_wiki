@@ -6,18 +6,7 @@
     "description": "Find the needle faster with A Game About Needle In A Haystack guides, tool and upgrade tips, hay-selling strategies, gameplay help, and achievement advice.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {
-    "home": "Home",
-    "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "platforms": "Platforms",
-    "release": "Release",
-    "community": "Community",
-    "media": "Media",
-    "codes": "Codes"
-  },
+  "nav": {},
   "home": {
     "meta": {
       "title": "A Game About Needle In A Haystack Wiki - Guide & Tips",
@@ -437,34 +426,6 @@
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Steam"
     }
-  },
-  "guide": {
-    "overviewTitle": "A Game About Needle In A Haystack Guides",
-    "overviewDescription": "Browse beginner walkthroughs, search strategies, ending tips, and speedrun advice for A Game About Needle In A Haystack."
-  },
-  "mechanics": {
-    "overviewTitle": "A Game About Needle In A Haystack Mechanics",
-    "overviewDescription": "Learn how searching, sorting, automation, metal detection, and incremental upgrades work in A Game About Needle In A Haystack."
-  },
-  "platforms": {
-    "overviewTitle": "A Game About Needle In A Haystack Platforms",
-    "overviewDescription": "Check platform availability and setup details for playing A Game About Needle In A Haystack on Steam, PC, Mac, mobile, iOS, and console."
-  },
-  "release": {
-    "overviewTitle": "A Game About Needle In A Haystack Release",
-    "overviewDescription": "Find release date, price, demo, DLC, and platform details for A Game About Needle In A Haystack."
-  },
-  "community": {
-    "overviewTitle": "A Game About Needle In A Haystack Community",
-    "overviewDescription": "Read community reviews, multiplayer and co-op details, and Reddit discussion for A Game About Needle In A Haystack."
-  },
-  "media": {
-    "overviewTitle": "A Game About Needle In A Haystack Videos",
-    "overviewDescription": "Watch trailers, gameplay footage, and speedrun videos for A Game About Needle In A Haystack."
-  },
-  "codes": {
-    "overviewTitle": "A Game About Needle In A Haystack Codes",
-    "overviewDescription": "Check the latest A Game About Needle In A Haystack codes and learn how to redeem them in game."
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
