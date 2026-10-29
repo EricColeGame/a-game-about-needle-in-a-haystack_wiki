@@ -241,9 +241,6 @@ const GROUP_TITLES: Record<string, string> = {
   mechanics: "Mechanics",
   platforms: "Platforms",
   release: "Release",
-  community: "Community",
-  media: "Media",
-  codes: "Codes",
 };
 
 // 德文分组标题映射
@@ -252,9 +249,6 @@ const GROUP_TITLES_DE: Record<string, string> = {
   mechanics: "Mechaniken",
   platforms: "Plattformen",
   release: "Release",
-  community: "Community",
-  media: "Medien",
-  codes: "Codes",
 };
 
 // 西班牙文分组标题映射
@@ -263,9 +257,6 @@ const GROUP_TITLES_ES: Record<string, string> = {
   mechanics: "Mecánicas",
   platforms: "Plataformas",
   release: "Lanzamiento",
-  community: "Comunidad",
-  media: "Multimedia",
-  codes: "Códigos",
 };
 
 // 日文分组标题映射
@@ -274,9 +265,6 @@ const GROUP_TITLES_JA: Record<string, string> = {
   mechanics: "ゲームシステム",
   platforms: "対応プラットフォーム",
   release: "リリース情報",
-  community: "コミュニティ",
-  media: "動画・メディア",
-  codes: "コード",
 };
 
 // locale → 分组标题映射
@@ -295,7 +283,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "mechanics", "platforms", "release", "community", "media", "codes",
+  "guide", "mechanics", "platforms", "release",
 ];
 
 /**

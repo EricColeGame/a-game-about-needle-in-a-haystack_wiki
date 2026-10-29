@@ -6,7 +6,31 @@
     "description": "Find the needle faster with A Game About Needle In A Haystack guides, tool and upgrade tips, hay-selling strategies, gameplay help, and achievement advice.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "release": "Release",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
+  "guide": {
+    "overviewTitle": "A Game About Needle In A Haystack Guide",
+    "overviewDescription": "Learn the core search loop, upgrade your gear at the right time, sell hay efficiently, and find the hidden needle faster."
+  },
+  "mechanics": {
+    "overviewTitle": "A Game About Needle In A Haystack Mechanics",
+    "overviewDescription": "Understand incremental progression, tool efficiency, hay income, and the systems that shape every successful search run."
+  },
+  "platforms": {
+    "overviewTitle": "A Game About Needle In A Haystack Platforms",
+    "overviewDescription": "See where you can play, check Steam requirements and features, and choose the platform that fits your search sessions."
+  },
+  "release": {
+    "overviewTitle": "A Game About Needle In A Haystack Release",
+    "overviewDescription": "Track the release date, early access status, version updates, and the best time to start digging for the hidden needle."
+  },
   "home": {
     "meta": {
       "title": "A Game About Needle In A Haystack Wiki - Guide & Tips",
@@ -433,9 +457,7 @@
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnSteam": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -463,7 +485,7 @@
     "beginnerGuide": "Beginner Guide",
     "mechanicsGuides": "Mechanics Guides",
     "platformGuides": "Platform Guides",
-    "codesGuides": "Codes & Rewards",
+    "releaseGuides": "Release Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
