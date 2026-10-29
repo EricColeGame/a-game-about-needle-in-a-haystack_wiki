@@ -38,293 +38,389 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your A Game About Needle In A Haystack Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the first search loop: survey the pile, dig through the hay, and keep track of the areas you have already checked."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Tools & Upgrades",
+          "description": "Spend your hay money on the pitchfork, dynamite, vacuum, and upgrades that make each collection run more efficient."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Hay Money Loop",
+          "description": "Fill your bag, sell the load at the cow, and put the cash back into the next tool or capacity upgrade."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Search Smarter",
+          "description": "Use a fixed anchor, clear one section at a time, and check the edges before moving into the dense center."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending A Game About Needle In A Haystack Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Tools & Upgrades",
+        "Search Patterns",
+        "System Requirements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with a repeatable search routine, learn the hay money loop, and avoid the habits that slow new players down.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core Loop",
+          "title": "How to Play",
+          "description": "Understand the dig, collect, sell, and upgrade loop before you commit to a long search session.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Tools",
+          "title": "Tools and Upgrades",
+          "description": "Compare the pitchfork, dynamite, vacuum, and upgrades that shape the way you move through the haystack.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Efficiency",
+          "title": "Search Smarter",
+          "description": "Build a repeatable sweep, protect your attention, and stop covering the same straw twice.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-efficiency"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Progression",
+          "title": "Upgrade Priorities",
+          "description": "Choose the next purchase by finding the bottleneck in your collection and selling routine.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Reference",
+          "title": "System Requirements",
+          "description": "Check the listed PC requirements before you install and begin the search.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is A Game About Needle In A Haystack?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "A Game About Needle In A Haystack is a first-person casual simulation from Little Field Studios. Released on Steam for PC on October 16, 2026, it turns the familiar saying into a hands-on search through a giant haystack.",
+        "You dig up hay, fill your bag, and sell the collected hay for cash. That money buys tools and upgrades such as the pitchfork, dynamite, and vacuum, giving you new ways to clear the pile while you work toward the hidden needle."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Little Field Studios"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC via Steam"
+        },
+        {
+          "label": "Release Date",
+          "value": "Oct 16, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Casual Simulation"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Perspective",
+          "value": "First-person"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Mode",
+          "value": "Single-player"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore A Game About Needle In A Haystack",
+      "description": "Use these eight guides to understand the search loop, compare tools, manage hay money, and plan a faster route to the hidden needle.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "A Game About Needle In A Haystack Beginner Guide",
+          "description": "Introduce the core gameplay loop, including digging through the haystack, collecting hay, selling it for money, and searching for the hidden needle. Provide a practical starting walkthrough to help new players understand the workshop, inventory capacity, and early progression.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Survey the full haystack and note dense straw, open gaps, and useful landmarks before digging."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Pick one fixed anchor so you can return to the same search lane after every sweep."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Clear one section from edge to edge instead of drifting between unrelated spots."
+            },
+            {
+              "label": "4",
+              "detail": "Carry collected hay to the cow and sell the load to turn it into spending money."
+            },
+            {
+              "label": "5",
+              "detail": "Spend earnings on the pitchfork, dynamite, or vacuum when a new tool improves the loop."
+            },
+            {
+              "label": "6",
+              "detail": "Check bag capacity before a long run so collection does not end early."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "A Game About Needle In A Haystack Tools and Upgrades",
+          "description": "Compare the pitchfork, dynamite, vacuum, and detection tools by their practical role, then spend money where it improves your current search.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Vacuum — fast cleanup for loose hay across a wide area."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Metal Detector — repeatable signals that narrow the search area."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Dynamite — explosive clearing when hay is tightly packed."
+            },
+            {
+              "label": "C",
+              "detail": "Pitchfork — controlled digging for early searches and tight spots."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "A Game About Needle In A Haystack Money Farming Guide",
+          "description": "Cover the core money-making loop of collecting hay, filling the bag, and selling it at the cow. Explain how players can improve their collection efficiency and use earnings to accelerate upgrades without assuming unverified farming exploits.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-factory",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Dig through the haystack and collect the straw you uncover."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Watch the bag and stop before capacity forces an early return."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Carry the full load back to the cow."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Sell the hay to convert the trip into cash."
+            },
+            {
+              "label": "5",
+              "detail": "Choose a tool or upgrade that removes the current bottleneck."
+            },
+            {
+              "label": "6",
+              "detail": "Repeat the loop and measure whether each run clears more hay."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "A Game About Needle In A Haystack Progression Guide",
+          "description": "Organize progression around earning money, improving collection speed, increasing carrying capacity, and unlocking more effective tools. Help players prioritize upgrades according to their current stage and the overall goal of finding the needle.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Speed",
+              "detail": "Faster collection shortens every future run."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Capacity",
+              "detail": "More bag space means fewer trips to sell."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Tools",
+              "detail": "Unlock the pitchfork, dynamite, and vacuum as funds allow."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Invest in changes that improve the collect-sell loop."
+            },
+            {
+              "label": "Routes",
+              "detail": "Refine repeatable sweep patterns as the pile changes."
+            },
+            {
+              "label": "Goal",
+              "detail": "Keep every purchase aimed at finding the hidden needle."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "A Game About Needle In A Haystack Tips and Tricks",
+          "description": "Collect practical tips for managing inventory, choosing tools, selling collected hay, and balancing faster collection with equipment limitations. Include beginner-friendly strategies grounded in the game's documented mechanics.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-efficiency",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Anchor",
+              "detail": "Return to one fixed landmark after every sweep."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Grid",
+              "detail": "Divide the haystack into sections and finish each one."
+            },
+            {
+              "label": "Edges",
+              "detail": "Check the perimeter before searching the dense center."
+            },
+            {
+              "label": "Breaks",
+              "detail": "Pause when you start rechecking the same straw."
+            },
+            {
+              "label": "Sell",
+              "detail": "Clear your bag at the cow before it becomes full."
             },
             {
               "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "detail": "Put sale money back into faster tools and upgrades."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "A Game About Needle In A Haystack Gameplay and Features",
+          "description": "Summarize the first-person gameplay, haystack exploration, resource collection, workshop upgrades, and single-player experience. Use the official store description and screenshots to help visitors understand the main mechanics before playing.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Perspective",
+              "detail": "First-person search through a large, straw-filled haystack."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Core Loop",
+              "detail": "Dig hay, collect it, sell it to the cow, and buy tools and upgrades."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Tools",
+              "detail": "The pitchfork, dynamite, vacuum, and detection gear support different search approaches."
+            },
+            {
+              "label": "Players",
+              "detail": "Single-player."
+            },
+            {
+              "label": "Platform",
+              "detail": "PC through Steam."
+            },
+            {
+              "label": "Objective",
+              "detail": "Find the hidden needle inside the haystack."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "A Game About Needle In A Haystack System Requirements",
+          "description": "Present the officially listed minimum PC requirements, including operating system, processor, memory, graphics compatibility, and storage space. Help players check whether their computers meet the published requirements before purchasing or launching the game.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 or Windows 11, 64-bit."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3570 or equivalent."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB."
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1050 or equivalent."
+            },
+            {
+              "label": "Storage",
+              "detail": "4 GB available space."
+            },
+            {
+              "label": "Network",
+              "detail": "Broadband internet connection."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "A Game About Needle In A Haystack Reviews and Updates",
+          "description": "Summarize player feedback, the overall review sentiment, and developer announcements available through the official Steam store and community channels. Keep this section updated as new reviews and game information become available.",
+          "href": "/community/a-game-about-needle-in-a-haystack-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reviews",
+              "detail": "Steam launch snapshot: 60% positive across 96 user reviews."
+            },
+            {
+              "label": "Launch",
+              "detail": "Released on PC via Steam on October 16, 2026."
+            },
+            {
+              "label": "Studio",
+              "detail": "Developed and published by Little Field Studios."
+            },
+            {
+              "label": "Updates",
+              "detail": "Follow the Steam community hub for patch notes and announcements."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "A Game About Needle In A Haystack FAQ",
+      "description": "Quick answers to the most common questions about A Game About Needle In A Haystack.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is A Game About Needle In A Haystack?",
+          "answer": "A Game About Needle In A Haystack is a first-person casual simulation from Little Field Studios. You dig through a giant haystack, collect and sell hay, buy tools and upgrades, and keep searching until you find the hidden needle."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you play A Game About Needle In A Haystack?",
+          "answer": "In A Game About Needle In A Haystack, you search the haystack in organized sections, dig up hay, and carry what you collect to the cow to sell. The money pays for better tools and upgrades, which help you clear more hay and continue the hunt."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What tools are available in A Game About Needle In A Haystack?",
+          "answer": "In A Game About Needle In A Haystack, the pitchfork, dynamite, and vacuum each offer a different way to handle hay. Compare their uses and upgrade the option that fits your current search route and budget."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you make money in A Game About Needle In A Haystack?",
+          "answer": "In A Game About Needle In A Haystack, collect hay until your bag is full, sell the load at the cow, then reinvest the cash in tools and upgrades. A steady collect-sell-upgrade loop is the most reliable way to make progress."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is A Game About Needle In A Haystack single-player?",
+          "answer": "Yes. A Game About Needle In A Haystack is listed as a single-player game on Steam, so the search loop is built around one player exploring the haystack at their own pace."
         }
       ]
     },
