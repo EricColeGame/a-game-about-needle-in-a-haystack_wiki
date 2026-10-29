@@ -1,1 +1,492 @@
-{}
+{
+  "site": {
+    "name": "A Game About Needle In A Haystack Wiki y Guía",
+    "shortName": "Wiki de la aguja",
+    "tagline": "Encuentra la aguja. Domina el pajar.",
+    "description": "Explora las guías de A Game About Needle In A Haystack sobre herramientas, mejoras, venta de heno y la búsqueda de la aguja oculta.",
+    "legalNotice": "Wiki de fans no oficial. Hecho por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánica",
+    "platforms": "Plataformas",
+    "release": "Lanzamiento",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Alternar tema"
+  },
+  "guide": {
+    "overviewTitle": "Guía de A Game About Needle In A Haystack",
+    "overviewDescription": "Aprenda el ciclo de búsqueda principal, actualice su equipo en el momento adecuado, venda heno de manera eficiente y encuentre la aguja oculta más rápido."
+  },
+  "mechanics": {
+    "overviewTitle": "A Game About Needle In A Haystack Mecánica",
+    "overviewDescription": "Comprenda la progresión incremental, la eficiencia de las herramientas, los ingresos por heno y los sistemas que dan forma a cada ejecución de búsqueda exitosa."
+  },
+  "platforms": {
+    "overviewTitle": "A Game About Needle In A Haystack Plataformas",
+    "overviewDescription": "Vea dónde puede jugar, consulte los requisitos y características del Steam y elija la plataforma que se ajuste a sus sesiones de búsqueda."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento de A Game About Needle In A Haystack",
+    "overviewDescription": "Consulta la fecha de lanzamiento en SteamDB, las novedades disponibles y la ficha actual de Steam."
+  },
+  "home": {
+    "meta": {
+      "title": "A Game About Needle In A Haystack Wiki - Guía y consejos",
+      "description": "Explora las guías A Game About Needle In A Haystack que cubren herramientas, actualizaciones, venta de heno, jugabilidad y la búsqueda de la aguja oculta."
+    },
+    "hero": {
+      "eyebrow": "Wiki de la comunidad creada por fans",
+      "title": "A Game About Needle In A Haystack Wiki",
+      "description": "Encuentra la aguja escondida en un pajar gigante. Cava entre la paja, vende heno por dinero en efectivo, mejora tus herramientas y descubre formas eficientes de buscar.",
+      "stats": [
+        "Lanzamiento de SteamDB: 16 de octubre de 2026",
+        "60% Positivo (panorama histórico)",
+        "96 reseñas (instantánea histórica)",
+        "Un jugador"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Herramientas y actualizaciones",
+      "tertiaryCta": "Ver en Steam",
+      "videoLabel": "Tutorial de juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comience aquí",
+      "title": "Tu viaje A Game About Needle In A Haystack",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprenda el primer ciclo de búsqueda: examine la pila, excave entre el heno y realice un seguimiento de las áreas que ya ha revisado."
+        },
+        {
+          "number": "2",
+          "title": "Herramientas y actualizaciones",
+          "description": "Gasta tu dinero en horcas, dinamita, aspiradoras y mejoras que hacen que cada colección sea más eficiente."
+        },
+        {
+          "number": "3",
+          "title": "Bucle de dinero de heno",
+          "description": "Llene su bolsa, venda la carga a la vaca y devuelva el dinero en efectivo a la siguiente herramienta o mejora de capacidad."
+        },
+        {
+          "number": "4",
+          "title": "Búsqueda más inteligente",
+          "description": "Utilice un ancla fija, limpie una sección a la vez y revise los bordes antes de pasar al centro denso."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias A Game About Needle In A Haystack Guías",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Herramientas y actualizaciones",
+        "Patrones de búsqueda",
+        "Requisitos del sistema"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Comience con una rutina de búsqueda repetible, aprenda el ciclo del dinero y evite los hábitos que frenan a los nuevos jugadores.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Bucle central",
+          "title": "Cómo jugar",
+          "description": "Comprenda el ciclo de excavación, recopilación, venta y actualización antes de comprometerse con una larga sesión de búsqueda.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Herramientas",
+          "title": "Herramientas y actualizaciones",
+          "description": "Compara la horca, la dinamita, la aspiradora y las mejoras que dan forma a tu forma de moverte por el pajar.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Eficiencia",
+          "title": "Búsqueda más inteligente",
+          "description": "Haz un barrido repetible, protege tu atención y deja de cubrir la misma pajita dos veces.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Prioridades de actualización",
+          "description": "Elija la próxima compra encontrando el cuello de botella en su rutina de colección y venta.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "Referencia",
+          "title": "Requisitos del sistema",
+          "description": "Verifique los requisitos de PC enumerados antes de instalar y comenzar la búsqueda.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es A Game About Needle In A Haystack?",
+      "paragraphs": [
+        "A Game About Needle In A Haystack es una simulación casual en primera persona de Little Field Studios. Lanzado en Steam para PC el 16 de octubre de 2026, convierte el dicho familiar en una búsqueda práctica a través de un pajar gigante.",
+        "Desenterras heno, llenas tu bolsa y vendes el heno recogido por dinero en efectivo. Ese dinero compra herramientas y mejoras como la horca, la dinamita y la aspiradora, lo que te brinda nuevas formas de limpiar la pila mientras trabajas hacia la aguja oculta."
+      ],
+      "stats": [
+        {
+          "label": "Revelador",
+          "value": "Little Field Studios"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC vía Steam"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "16 de octubre de 2026"
+        },
+        {
+          "label": "Género",
+          "value": "Simulación informal"
+        },
+        {
+          "label": "Perspectiva",
+          "value": "primera persona"
+        },
+        {
+          "label": "Modo",
+          "value": "Un jugador"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explorar A Game About Needle In A Haystack",
+      "description": "Utilice estas ocho guías para comprender el ciclo de búsqueda, comparar herramientas, administrar el dinero del heno y planificar una ruta más rápida hacia la aguja oculta.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "A Game About Needle In A Haystack Guía para principiantes",
+          "description": "Presenta el bucle principal del juego, que incluye cavar en el pajar, recolectar heno, venderlo por dinero y buscar la aguja escondida. Proporcione un recorrido inicial práctico para ayudar a los nuevos jugadores a comprender el taller, la capacidad del inventario y la progresión temprana.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Inspeccione todo el pajar y observe la paja densa, los espacios abiertos y los puntos de referencia útiles antes de excavar."
+            },
+            {
+              "label": "2",
+              "detail": "Elija un ancla fija para poder regresar al mismo carril de búsqueda después de cada barrido."
+            },
+            {
+              "label": "3",
+              "detail": "Despeja una sección de borde a borde en lugar de deambular entre puntos no relacionados."
+            },
+            {
+              "label": "4",
+              "detail": "Lleva el heno recogido a la vaca y véndelo para convertirlo en dinero para gastar."
+            },
+            {
+              "label": "5",
+              "detail": "Gaste sus ganancias en la horca, la dinamita o la aspiradora cuando una nueva herramienta mejore el circuito."
+            },
+            {
+              "label": "6",
+              "detail": "Verifique la capacidad de la bolsa antes de un recorrido largo para que la recolección no termine antes de tiempo."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "A Game About Needle In A Haystack Herramientas y actualizaciones",
+          "description": "Compare la horca, la dinamita y la aspiradora según su papel en el bucle de heno y luego gaste dinero donde mejore su búsqueda actual.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Aspiradora: recoge el heno continuamente pero puede sobrecalentarse."
+            },
+            {
+              "label": "A",
+              "detail": "Horca: recoge más heno por golpe y facilita la recolección manual."
+            },
+            {
+              "label": "B",
+              "detail": "Dinamita: limpieza explosiva cuando el heno está muy compactado."
+            },
+            {
+              "label": "C",
+              "detail": "Capacidad de la bolsa: reduce los viajes para vender el heno recolectado."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "A Game About Needle In A Haystack Guía de cultivo de dinero",
+          "description": "Cree un ciclo de dinero repetible para cavar heno, llenar la bolsa, venderlo a la vaca y comprar la siguiente mejora útil del taller.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Excave heno a mano en una sección específica para que su ruta de recolección sea fácil de repetir."
+            },
+            {
+              "label": "2",
+              "detail": "Llene la bolsa antes de regresar y compre capacidad con anticipación si los viajes cortos reducen sus ingresos."
+            },
+            {
+              "label": "3",
+              "detail": "Lleva el heno recogido a la vaca, el punto de venta del juego."
+            },
+            {
+              "label": "4",
+              "detail": "Vende la carga completa para convertir la paja en dinero del taller."
+            },
+            {
+              "label": "5",
+              "detail": "Elija la actualización que elimine su cuello de botella actual, comenzando con la capacidad, la velocidad o una horca."
+            },
+            {
+              "label": "6",
+              "detail": "Repita el ciclo de excavación, transporte y venta y deje que mejores herramientas escale cada ejecución."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "A Game About Needle In A Haystack Guía de progresión",
+          "description": "Organice el progreso en torno a ganar dinero, mejorar la velocidad de recolección, aumentar la capacidad de carga y desbloquear herramientas más efectivas. Ayude a los jugadores a priorizar las actualizaciones según su etapa actual y el objetivo general de encontrar la aguja.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Velocidad",
+              "detail": "Una recolección más rápida acorta cada ejecución futura."
+            },
+            {
+              "label": "Capacidad",
+              "detail": "Más espacio en el bolso significa menos viajes para vender."
+            },
+            {
+              "label": "Herramientas",
+              "detail": "Desbloquee la horca, la dinamita y la aspiradora según lo permitan los fondos."
+            },
+            {
+              "label": "Actualizaciones",
+              "detail": "Invierta en cambios que mejoren el ciclo de cobro-venta."
+            },
+            {
+              "label": "Rutas",
+              "detail": "Refine los patrones de barrido repetibles a medida que cambia la pila."
+            },
+            {
+              "label": "Meta",
+              "detail": "Mantenga cada compra dirigida a encontrar la aguja oculta."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "A Game About Needle In A Haystack Consejos y trucos",
+          "description": "Recopile consejos prácticos para administrar el inventario, elegir herramientas, vender heno recolectado y equilibrar una recolección más rápida con las limitaciones del equipo. Incluya estrategias para principiantes basadas en las mecánicas documentadas del juego.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ancla",
+              "detail": "Regrese a un punto de referencia fijo después de cada barrido."
+            },
+            {
+              "label": "Red",
+              "detail": "Divide el pajar en secciones y termina cada una."
+            },
+            {
+              "label": "Bordes",
+              "detail": "Verifique el perímetro antes de buscar el centro denso."
+            },
+            {
+              "label": "Descansos",
+              "detail": "Haz una pausa cuando empieces a volver a comprobar la misma pajita."
+            },
+            {
+              "label": "Vender",
+              "detail": "Limpia tu bolsa junto a la vaca antes de que se llene."
+            },
+            {
+              "label": "Reinvertir",
+              "detail": "Devuelva el dinero de las ventas a herramientas y actualizaciones más rápidas."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "A Game About Needle In A Haystack Jugabilidad y características",
+          "description": "Resuma la jugabilidad en primera persona, la exploración de pajares, la recolección de recursos, las actualizaciones del taller y la experiencia para un jugador. Utilice la descripción oficial de la tienda y las capturas de pantalla para ayudar a los visitantes a comprender las mecánicas principales antes de jugar.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Perspectiva",
+              "detail": "Búsqueda en primera persona a través de un gran pajar lleno de paja."
+            },
+            {
+              "label": "Bucle central",
+              "detail": "Cava heno, recógelo, véndelo a la vaca y compra herramientas y mejoras."
+            },
+            {
+              "label": "Herramientas",
+              "detail": "La horca, la dinamita y la aspiradora permiten acumulaciones más grandes, acceso despejado y recolección continua."
+            },
+            {
+              "label": "Jugadores",
+              "detail": "Un jugador."
+            },
+            {
+              "label": "Plataforma",
+              "detail": "PC a través del Steam."
+            },
+            {
+              "label": "Objetivo",
+              "detail": "Encuentra la aguja escondida dentro del pajar."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "A Game About Needle In A Haystack Requisitos del sistema",
+          "description": "Presente los requisitos mínimos de PC enumerados oficialmente, incluidos el sistema operativo, el procesador, la memoria, la compatibilidad de gráficos y el espacio de almacenamiento. Ayude a los jugadores a verificar si sus computadoras cumplen con los requisitos publicados antes de comprar o iniciar el juego.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 o Windows 11, 64 bits."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3570 o equivalente."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB."
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1050 o equivalente."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "4 GB de espacio disponible."
+            },
+            {
+              "label": "Red",
+              "detail": "Conexión a internet de banda ancha."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "A Game About Needle In A Haystack Steam Guía",
+          "description": "Revise los datos verificados de Steam para A Game About Needle In A Haystack, incluido el cronograma de lanzamiento, el ID de la aplicación, el modo, los logros y los detalles de la plataforma.",
+          "href": "/platforms/a-game-about-needle-in-a-haystack-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ID de aplicación",
+              "detail": "5321400 al SteamDB."
+            },
+            {
+              "label": "Lanzamiento",
+              "detail": "16 de octubre de 2026 a las 17:22:52 UTC."
+            },
+            {
+              "label": "visto por primera vez",
+              "detail": "23 de septiembre de 2026 al SteamDB."
+            },
+            {
+              "label": "Estudio",
+              "detail": "Little Field Studios desarrolló y publicó el juego."
+            },
+            {
+              "label": "Características",
+              "detail": "Solo para un jugador, con Steam logros y Steam estadísticas."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "A Game About Needle In A Haystack Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más habituales sobre el A Game About Needle In A Haystack.",
+      "items": [
+        {
+          "question": "¿Qué es A Game About Needle In A Haystack?",
+          "answer": "A Game About Needle In A Haystack es una simulación casual en primera persona de Little Field Studios. Cavas en un pajar gigante, recolectas y vendes heno, compras herramientas y mejoras, y sigues buscando hasta encontrar la aguja oculta."
+        },
+        {
+          "question": "¿Cómo se juega al A Game About Needle In A Haystack?",
+          "answer": "En A Game About Needle In A Haystack, buscas en el pajar en secciones organizadas, desentierras heno y llevas lo que recolectas a la vaca para venderlo. El dinero paga por mejores herramientas y actualizaciones, que te ayudarán a limpiar más heno y continuar la caza."
+        },
+        {
+          "question": "¿Qué herramientas están disponibles en A Game About Needle In A Haystack?",
+          "answer": "En A Game About Needle In A Haystack, la horca, la dinamita y la aspiradora ofrecen cada uno una forma diferente de manipular el heno. Compare sus usos y actualice la opción que se ajuste a su ruta de búsqueda y presupuesto actual."
+        },
+        {
+          "question": "¿Cómo se gana dinero en A Game About Needle In A Haystack?",
+          "answer": "En A Game About Needle In A Haystack, recolecta heno hasta que tu bolsa esté llena, vende la carga a la vaca y luego reinvierte el dinero en herramientas y mejoras. Un ciclo constante de recaudación, venta y actualización es la forma más confiable de progresar."
+        },
+        {
+          "question": "¿A Game About Needle In A Haystack es para un jugador?",
+          "answer": "Sí. A Game About Needle In A Haystack aparece como un juego para un jugador en Steam, por lo que el ciclo de búsqueda se basa en que un jugador explore el pajar a su propio ritmo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para encontrar la aguja?",
+      "description": "Aprenda a cavar, vender heno y elegir actualizaciones útiles con nuestras guías comunitarias.",
+      "primary": "Lea la guía para principiantes",
+      "secondary": "Ver en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "updated": "Actualizado",
+    "playOnSteam": "Ver en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenido",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "A Game About Needle In A Haystack Wiki y Guía",
+    "about": "A Game About Needle In A Haystack Wiki es un centro de guías independiente creado por fanáticos que cubre búsquedas en pajares, actualizaciones de herramientas, estrategias para ganar dinero y conocimientos esenciales del juego para jugadores nuevos y veteranos por igual.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 A Game About Needle In A Haystack Wiki. Sin afiliación a Little Field Studios ni a Steam.",
+    "description": "Simulador de pajar en primera persona para un jugador. Cava entre la paja, vende heno y encuentra la aguja escondida.",
+    "playGame": "Ver en Steam",
+    "officialDiscord": "Comunidad de Steam",
+    "officialYoutube": "Tutorial de juego",
+    "vvBuilder": "Página de Steam",
+    "beginnerGuide": "Guía para principiantes",
+    "mechanicsGuides": "Guías de mecánica",
+    "platformGuides": "Guías de plataforma",
+    "releaseGuides": "Guías de lanzamiento",
+    "privacyPolicy": "política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

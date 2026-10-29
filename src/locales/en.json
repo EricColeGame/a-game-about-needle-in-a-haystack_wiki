@@ -3,7 +3,7 @@
     "name": "A Game About Needle In A Haystack Wiki",
     "shortName": "Needle Wiki",
     "tagline": "Find the Needle. Master the Haystack.",
-    "description": "Find the needle faster with A Game About Needle In A Haystack guides, tool and upgrade tips, hay-selling strategies, gameplay help, and achievement advice.",
+    "description": "Explore A Game About Needle In A Haystack guides covering tools, upgrades, hay selling, gameplay, and the search for the hidden needle.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -29,26 +29,26 @@
   },
   "release": {
     "overviewTitle": "A Game About Needle In A Haystack Release",
-    "overviewDescription": "Track the release date, early access status, version updates, and the best time to start digging for the hidden needle."
+    "overviewDescription": "Check the SteamDB release record, available update information, and the current Steam store listing before you start searching."
   },
   "home": {
     "meta": {
       "title": "A Game About Needle In A Haystack Wiki - Guide & Tips",
-      "description": "Find the needle faster with A Game About Needle In A Haystack guides, tool and upgrade tips, hay-selling strategies, gameplay help, and achievement advice."
+      "description": "Explore A Game About Needle In A Haystack guides covering tools, upgrades, hay selling, gameplay, and the search for the hidden needle."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
       "title": "A Game About Needle In A Haystack Wiki",
       "description": "Find the hidden needle in a giant haystack. Dig through straw, sell hay for cash, upgrade your tools, and discover efficient ways to search.",
       "stats": [
-        "Release Date: Oct 16, 2026",
-        "60% Positive Reviews",
-        "96 User Reviews",
+        "SteamDB launch: Oct 16, 2026",
+        "60% Positive (historical snapshot)",
+        "96 Reviews (historical snapshot)",
         "Single-player"
       ],
       "primaryCta": "Beginner Guide",
       "secondaryCta": "Tools & Upgrades",
-      "tertiaryCta": "Play on Steam",
+      "tertiaryCta": "View on Steam",
       "videoLabel": "Gameplay walkthrough"
     },
     "updates": {
@@ -210,7 +210,7 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Vacuum — continuously collects hay and is the closest tool to true automation."
+              "detail": "Vacuum — collects hay continuously but can overheat."
             },
             {
               "label": "A",
@@ -222,7 +222,7 @@
             },
             {
               "label": "C",
-              "detail": "Dynamite — clears pits that would otherwise block access to hay."
+              "detail": "Bag capacity — reduces trips to sell collected hay."
             }
           ]
         },
@@ -450,15 +450,15 @@
     },
     "finalCta": {
       "title": "Ready to Find the Needle?",
-      "description": "Learn how to dig efficiently, sell hay for cash, and upgrade the right tools with our free, up-to-date community guides.",
+      "description": "Learn how to dig, sell hay, and choose useful upgrades with our community guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Steam"
+      "secondary": "View on Steam"
     }
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "updated": "Updated",
-    "playOnSteam": "Play on Steam",
+    "playOnSteam": "View on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -478,7 +478,7 @@
     "legal": "Legal",
     "copyright": "2026 A Game About Needle In A Haystack Wiki. Not affiliated with Little Field Studios or Steam.",
     "description": "Single-player first-person haystack simulator. Dig through straw, sell hay, and find the hidden needle.",
-    "playGame": "Play on Steam",
+    "playGame": "View on Steam",
     "officialDiscord": "Steam Community",
     "officialYoutube": "Gameplay Walkthrough",
     "vvBuilder": "Steam Store Page",

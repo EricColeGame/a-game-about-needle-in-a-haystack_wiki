@@ -1,1 +1,492 @@
-{}
+{
+  "site": {
+    "name": "A Game About Needle In A Haystack Wiki & Tipps",
+    "shortName": "Nadel-Wiki",
+    "tagline": "Finde die Nadel. Meistere den Heuhaufen.",
+    "description": "Entdecke Anleitungen zu A Game About Needle In A Haystack: Werkzeuge, Upgrades, Heuverkauf und die Suche nach der versteckten Nadel.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "guide": "Anleitungen",
+    "mechanics": "Spielmechanik",
+    "platforms": "Plattformen",
+    "release": "Veröffentlichung",
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Thema umschalten"
+  },
+  "guide": {
+    "overviewTitle": "A Game About Needle In A Haystack: Anleitungen",
+    "overviewDescription": "Lernen Sie die Kernsuchschleife kennen, rüsten Sie Ihre Ausrüstung zum richtigen Zeitpunkt auf, verkaufen Sie Heu effizient und finden Sie die versteckte Nadel schneller."
+  },
+  "mechanics": {
+    "overviewTitle": "A Game About Needle In A Haystack Mechanik",
+    "overviewDescription": "Verstehen Sie den inkrementellen Fortschritt, die Werkzeugeffizienz, das Heueinkommen und die Systeme, die jeden erfolgreichen Suchlauf prägen."
+  },
+  "platforms": {
+    "overviewTitle": "A Game About Needle In A Haystack Plattformen",
+    "overviewDescription": "Sehen Sie, wo Sie spielen können, überprüfen Sie die Anforderungen und Funktionen von Steam und wählen Sie die Plattform aus, die zu Ihren Suchsitzungen passt."
+  },
+  "release": {
+    "overviewTitle": "A Game About Needle In A Haystack: Veröffentlichung",
+    "overviewDescription": "Prüfe das Veröffentlichungsdatum auf SteamDB, verfügbare Updates und den aktuellen Steam-Shop-Eintrag."
+  },
+  "home": {
+    "meta": {
+      "title": "A Game About Needle In A Haystack Wiki – Anleitung und Tipps",
+      "description": "Entdecken Sie A Game About Needle In A Haystack Anleitungen zu Werkzeugen, Upgrades, Heuverkauf, Gameplay und der Suche nach der versteckten Nadel."
+    },
+    "hero": {
+      "eyebrow": "Von Fans erstelltes Community-Wiki",
+      "title": "A Game About Needle In A Haystack Wiki",
+      "description": "Finden Sie die versteckte Nadel in einem riesigen Heuhaufen. Graben Sie durch Stroh, verkaufen Sie Heu gegen Bargeld, verbessern Sie Ihre Werkzeuge und entdecken Sie effiziente Wege zum Suchen.",
+      "stats": [
+        "SteamDB Start: 16. Okt. 2026",
+        "60 % positiv (historische Momentaufnahme)",
+        "96 Rezensionen (historische Momentaufnahme)",
+        "Einzelspieler"
+      ],
+      "primaryCta": "Anfängerleitfaden",
+      "secondaryCta": "Tools und Upgrades",
+      "tertiaryCta": "Auf Steam ansehen",
+      "videoLabel": "Gameplay-Komplettlösung"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Durchsuchen Sie alle Leitfäden",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Beginnen Sie hier",
+      "title": "Ihre A Game About Needle In A Haystack-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Lernen Sie die erste Suchschleife: Untersuchen Sie den Haufen, wühlen Sie sich durch das Heu und behalten Sie den Überblick über die Bereiche, die Sie bereits überprüft haben."
+        },
+        {
+          "number": "2",
+          "title": "Tools und Upgrades",
+          "description": "Geben Sie Ihr Heugeld für Heugabel, Dynamit, Staubsauger und Upgrades aus, die jede Sammlung effizienter machen."
+        },
+        {
+          "number": "3",
+          "title": "Heu-Geld-Schleife",
+          "description": "Füllen Sie Ihren Beutel, verkaufen Sie die Ladung bei der Kuh und stecken Sie das Geld wieder in das nächste Werkzeug oder die nächste Kapazitätserweiterung."
+        },
+        {
+          "number": "4",
+          "title": "Suchen Sie intelligenter",
+          "description": "Verwenden Sie einen festen Anker, räumen Sie einen Abschnitt nach dem anderen frei und überprüfen Sie die Kanten, bevor Sie in die dichte Mitte vordringen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Trendige A Game About Needle In A Haystack-Guides",
+      "quickLinks": [
+        "Anfängerleitfaden",
+        "Tools und Upgrades",
+        "Suchmuster",
+        "Systemanforderungen"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerleitfaden",
+          "description": "Beginnen Sie mit einer wiederholbaren Suchroutine, lernen Sie die Heu-Geld-Schleife kennen und vermeiden Sie Gewohnheiten, die neue Spieler ausbremsen.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Kernschleife",
+          "title": "Wie man spielt",
+          "description": "Machen Sie sich mit dem Ablauf des Grabens, Sammelns, Verkaufens und Upgradens vertraut, bevor Sie sich auf eine lange Suchsitzung einlassen.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Werkzeuge",
+          "title": "Tools und Upgrades",
+          "description": "Vergleichen Sie die Heugabel, das Dynamit, das Vakuum und die Upgrades, die die Art und Weise prägen, wie Sie sich durch den Heuhaufen bewegen.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "Effizienz",
+          "title": "Suchen Sie intelligenter",
+          "description": "Bauen Sie einen wiederholbaren Schwung auf, schützen Sie Ihre Aufmerksamkeit und bedecken Sie nicht mehr zweimal denselben Strohhalm.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "Progression",
+          "title": "Upgrade-Prioritäten",
+          "description": "Entscheiden Sie sich für den nächsten Einkauf, indem Sie den Engpass in Ihrer Sammlungs- und Verkaufsroutine finden.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "Referenz",
+          "title": "Systemanforderungen",
+          "description": "Überprüfen Sie vor der Installation die aufgeführten PC-Anforderungen und beginnen Sie mit der Suche.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist A Game About Needle In A Haystack?",
+      "paragraphs": [
+        "A Game About Needle In A Haystack ist eine Ego-Casual-Simulation von Little Field Studios. Am 16. Oktober 2026 auf Steam für PC veröffentlicht, verwandelt es das bekannte Sprichwort in eine praktische Suche durch einen riesigen Heuhaufen.",
+        "Sie graben Heu aus, füllen Ihren Sack und verkaufen das gesammelte Heu gegen Bargeld. Mit diesem Geld können Sie Werkzeuge und Upgrades wie Heugabel, Dynamit und Staubsauger kaufen, wodurch Sie neue Möglichkeiten haben, den Haufen wegzuräumen, während Sie auf die verborgene Nadel zuarbeiten."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Little Field Studios"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC über Steam"
+        },
+        {
+          "label": "Veröffentlichungsdatum",
+          "value": "16. Okt. 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Gelegenheitssimulation"
+        },
+        {
+          "label": "Perspektive",
+          "value": "Ich-Perspektive"
+        },
+        {
+          "label": "Modus",
+          "value": "Einzelspieler"
+        }
+      ],
+      "cta": "Entdecken Sie alle Leitfäden"
+    },
+    "explore": {
+      "title": "Entdecken Sie A Game About Needle In A Haystack",
+      "description": "Nutzen Sie diese acht Leitfäden, um die Suchschleife zu verstehen, Werkzeuge zu vergleichen, Heugeld zu verwalten und einen schnelleren Weg zur versteckten Nadel zu planen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "A Game About Needle In A Haystack Anfängerleitfaden",
+          "description": "Führen Sie die Kernspielschleife ein, darunter das Durchwühlen des Heuhaufens, das Sammeln von Heu, den Verkauf gegen Geld und die Suche nach der versteckten Nadel. Bieten Sie eine praktische Einführung, um neuen Spielern das Verständnis der Werkstatt, der Inventarkapazität und des frühen Fortschritts zu erleichtern.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Besichtigen Sie den vollen Heuhaufen und achten Sie vor dem Graben auf dichtes Stroh, offene Lücken und nützliche Orientierungspunkte."
+            },
+            {
+              "label": "2",
+              "detail": "Wählen Sie einen festen Anker, damit Sie nach jedem Suchvorgang zur gleichen Suchspur zurückkehren können."
+            },
+            {
+              "label": "3",
+              "detail": "Räumen Sie einen Abschnitt von Kante zu Kante ab, anstatt zwischen nicht zusammenhängenden Stellen zu wandern."
+            },
+            {
+              "label": "4",
+              "detail": "Tragen Sie das gesammelte Heu zur Kuh und verkaufen Sie die Ladung, um daraus Taschengeld zu machen."
+            },
+            {
+              "label": "5",
+              "detail": "Geben Sie Ihre Einnahmen für die Heugabel, das Dynamit oder den Staubsauger aus, wenn ein neues Werkzeug den Kreislauf verbessert."
+            },
+            {
+              "label": "6",
+              "detail": "Prüfen Sie die Kapazität des Beutels vor einer längeren Fahrt, damit die Sammlung nicht vorzeitig endet."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "A Game About Needle In A Haystack Tools und Upgrades",
+          "description": "Vergleichen Sie Heugabel, Dynamit und Staubsauger anhand ihrer Rolle im Heukreislauf und geben Sie dann Geld dort aus, wo es Ihre aktuelle Suche verbessert.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Staubsauger – sammelt Heu kontinuierlich, kann aber überhitzen."
+            },
+            {
+              "label": "A",
+              "detail": "Heugabel – erfasst größere Klumpen pro Schlag und verbessert jeden manuellen Lauf."
+            },
+            {
+              "label": "B",
+              "detail": "Dynamit – explosive Räumung, wenn das Heu dicht gepackt ist."
+            },
+            {
+              "label": "C",
+              "detail": "Sackkapazität – reduziert Fahrten zum Verkauf des gesammelten Heus."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "A Game About Needle In A Haystack Money-Farming-Leitfaden",
+          "description": "Bauen Sie einen wiederholbaren Geldkreislauf auf, bei dem Sie Heu graben, den Sack füllen, ihn bei der Kuh verkaufen und das nächste nützliche Werkstatt-Upgrade kaufen.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Graben Sie das Heu von Hand in einem bestimmten Abschnitt aus, damit Ihre Sammelroute leicht wiederholt werden kann."
+            },
+            {
+              "label": "2",
+              "detail": "Füllen Sie den Beutel vor der Rückkehr und kaufen Sie frühzeitig Kapazität, wenn kurze Reisen Ihr Einkommen beeinträchtigen."
+            },
+            {
+              "label": "3",
+              "detail": "Tragen Sie das gesammelte Heu zur Kuh, dem Verkaufsargument des Spiels."
+            },
+            {
+              "label": "4",
+              "detail": "Verkaufen Sie die volle Ladung, um aus Stroh Werkstattgeld zu machen."
+            },
+            {
+              "label": "5",
+              "detail": "Wählen Sie das Upgrade, das Ihren aktuellen Engpass beseitigt, beginnend mit Kapazität, Geschwindigkeit oder einer Heugabel."
+            },
+            {
+              "label": "6",
+              "detail": "Wiederholen Sie die Dig-Carry-Sell-Schleife und lassen Sie bessere Werkzeuge jeden Durchlauf skalieren."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "A Game About Needle In A Haystack Fortschrittsleitfaden",
+          "description": "Organisieren Sie Fortschritte, um Geld zu verdienen, die Sammelgeschwindigkeit zu verbessern, die Tragfähigkeit zu erhöhen und effektivere Werkzeuge freizuschalten. Helfen Sie den Spielern, Upgrades entsprechend ihrer aktuellen Stufe und dem Gesamtziel, die Nadel zu finden, zu priorisieren.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Geschwindigkeit",
+              "detail": "Eine schnellere Sammlung verkürzt jeden zukünftigen Lauf."
+            },
+            {
+              "label": "Kapazität",
+              "detail": "Mehr Platz in der Tasche bedeutet weniger Verkaufsfahrten."
+            },
+            {
+              "label": "Werkzeuge",
+              "detail": "Schalten Sie die Heugabel, das Dynamit und den Staubsauger frei, wenn es die Mittel erlauben."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Investieren Sie in Änderungen, die den Sammel- und Verkaufskreislauf verbessern."
+            },
+            {
+              "label": "Routen",
+              "detail": "Verfeinern Sie wiederholbare Sweep-Muster, wenn sich der Stapel ändert."
+            },
+            {
+              "label": "Ziel",
+              "detail": "Zielen Sie bei jedem Kauf darauf ab, die versteckte Nadel zu finden."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "A Game About Needle In A Haystack Tipps und Tricks",
+          "description": "Sammeln Sie praktische Tipps zur Bestandsverwaltung, zur Auswahl von Werkzeugen, zum Verkauf von gesammeltem Heu und zum Ausgleich einer schnelleren Sammlung mit Einschränkungen bei der Ausrüstung. Integrieren Sie anfängerfreundliche Strategien, die auf der dokumentierten Mechanik des Spiels basieren.",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Anker",
+              "detail": "Kehren Sie nach jedem Sweep zu einem festen Orientierungspunkt zurück."
+            },
+            {
+              "label": "Netz",
+              "detail": "Teilen Sie den Heuhaufen in Abschnitte auf und beenden Sie jeden Abschnitt."
+            },
+            {
+              "label": "Kanten",
+              "detail": "Überprüfen Sie den Umfang, bevor Sie das dichte Zentrum absuchen."
+            },
+            {
+              "label": "Pausen",
+              "detail": "Machen Sie eine Pause, wenn Sie mit der erneuten Überprüfung desselben Strohhalms beginnen."
+            },
+            {
+              "label": "Verkaufen",
+              "detail": "Räumen Sie Ihren Sack bei der Kuh ab, bevor er voll wird."
+            },
+            {
+              "label": "Reinvestieren",
+              "detail": "Investieren Sie das Verkaufsgeld wieder in schnellere Tools und Upgrades."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "A Game About Needle In A Haystack Gameplay und Funktionen",
+          "description": "Fassen Sie das Ego-Gameplay, die Erkundung des Heuhaufens, das Sammeln von Ressourcen, Werkstatt-Upgrades und das Einzelspieler-Erlebnis zusammen. Nutzen Sie die offizielle Store-Beschreibung und Screenshots, um Besuchern vor dem Spielen zu helfen, die Hauptmechanik zu verstehen.",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Perspektive",
+              "detail": "Durchsuchung eines großen, mit Stroh gefüllten Heuhaufens aus der Ego-Perspektive."
+            },
+            {
+              "label": "Kernschleife",
+              "detail": "Grabe Heu, sammle es ein, verkaufe es an die Kuh und kaufe Werkzeuge und Upgrades."
+            },
+            {
+              "label": "Werkzeuge",
+              "detail": "Die Heugabel, das Dynamit und das Vakuum unterstützen größere Klumpen, einen freien Zugang und eine kontinuierliche Sammlung."
+            },
+            {
+              "label": "Spieler",
+              "detail": "Einzelspieler."
+            },
+            {
+              "label": "Plattform",
+              "detail": "PC über Steam."
+            },
+            {
+              "label": "Objektiv",
+              "detail": "Finden Sie die versteckte Nadel im Heuhaufen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "A Game About Needle In A Haystack Systemanforderungen",
+          "description": "Präsentieren Sie die offiziell aufgeführten Mindestanforderungen an den PC, einschließlich Betriebssystem, Prozessor, Speicher, Grafikkompatibilität und Speicherplatz. Helfen Sie den Spielern zu überprüfen, ob ihre Computer die veröffentlichten Anforderungen erfüllen, bevor sie das Spiel kaufen oder starten.",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 oder Windows 11, 64-Bit."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3570 oder gleichwertig."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB."
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1050 oder gleichwertig."
+            },
+            {
+              "label": "Lagerung",
+              "detail": "4 GB verfügbarer Speicherplatz."
+            },
+            {
+              "label": "Netzwerk",
+              "detail": "Breitband-Internetverbindung."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "A Game About Needle In A Haystack Steam Leitfaden",
+          "description": "Sehen Sie sich die verifizierten Steam-Fakten für A Game About Needle In A Haystack an, einschließlich Veröffentlichungszeitplan, App-ID, Modus, Erfolge und Plattformdetails.",
+          "href": "/platforms/a-game-about-needle-in-a-haystack-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "App-ID",
+              "detail": "5321400 unter SteamDB."
+            },
+            {
+              "label": "Start",
+              "detail": "16. Oktober 2026 um 17:22:52 UTC."
+            },
+            {
+              "label": "Zum ersten Mal gesehen",
+              "detail": "23. September 2026 unter SteamDB."
+            },
+            {
+              "label": "Studio",
+              "detail": "Little Field Studios hat das Spiel entwickelt und veröffentlicht."
+            },
+            {
+              "label": "Merkmale",
+              "detail": "Nur Einzelspieler, mit Steam Erfolgen und Steam Statistiken."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "A Game About Needle In A Haystack FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu A Game About Needle In A Haystack.",
+      "items": [
+        {
+          "question": "Was ist A Game About Needle In A Haystack?",
+          "answer": "A Game About Needle In A Haystack ist eine Ego-Casual-Simulation aus Little Field Studios. Sie durchwühlen einen riesigen Heuhaufen, sammeln und verkaufen Heu, kaufen Werkzeuge und Upgrades und suchen weiter, bis Sie die versteckte Nadel finden."
+        },
+        {
+          "question": "Wie spielt man A Game About Needle In A Haystack?",
+          "answer": "In A Game About Needle In A Haystack durchsuchen Sie den Heuhaufen in geordnete Abschnitte, graben Heu aus und tragen das Gesammelte zur Kuh, um es zu verkaufen. Mit dem Geld werden bessere Werkzeuge und Upgrades finanziert, die Ihnen helfen, mehr Heu zu räumen und die Jagd fortzusetzen."
+        },
+        {
+          "question": "Welche Tools sind in A Game About Needle In A Haystack verfügbar?",
+          "answer": "In A Game About Needle In A Haystack bieten Heugabel, Dynamit und Staubsauger jeweils unterschiedliche Möglichkeiten, mit Heu umzugehen. Vergleichen Sie ihre Einsatzmöglichkeiten und aktualisieren Sie die Option, die zu Ihrer aktuellen Suchroute und Ihrem Budget passt."
+        },
+        {
+          "question": "Wie verdient man in A Game About Needle In A Haystack Geld?",
+          "answer": "Sammeln Sie in A Game About Needle In A Haystack Heu, bis Ihr Sack voll ist, verkaufen Sie die Ladung bei der Kuh und investieren Sie das Geld dann wieder in Werkzeuge und Upgrades. Eine stetige Sammel-, Verkaufs- und Upgrade-Schleife ist der zuverlässigste Weg, um Fortschritte zu erzielen."
+        },
+        {
+          "question": "Ist A Game About Needle In A Haystack Einzelspieler?",
+          "answer": "Ja. A Game About Needle In A Haystack ist auf Steam als Einzelspieler-Spiel aufgeführt, die Suchschleife basiert also darauf, dass ein Spieler den Heuhaufen in seinem eigenen Tempo erkundet."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, die Nadel zu finden?",
+      "description": "Erfahren Sie in unseren Community-Leitfäden, wie man gräbt, Heu verkauft und nützliche Upgrades auswählt.",
+      "primary": "Lesen Sie den Anfängerleitfaden",
+      "secondary": "Auf Steam ansehen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "playOnSteam": "Auf Steam ansehen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Anleitungen verfügbar. Schauen Sie bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "A Game About Needle In A Haystack Wiki & Tipps",
+    "about": "A Game About Needle In A Haystack Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub, der die Suche nach Heuhaufen, Werkzeug-Upgrades, Strategien zum Geldverdienen und grundlegendes Spielwissen für neue und erfahrene Spieler gleichermaßen behandelt.",
+    "quickLinks": "Quicklinks",
+    "guides": "Anleitungen",
+    "legal": "Legal",
+    "copyright": "2026 A Game About Needle In A Haystack Wiki. Keine Verbindung zu Little Field Studios oder Steam.",
+    "description": "Einzelspieler-Ego-Heuhaufen-Simulator. Grabe durch Stroh, verkaufe Heu und finde die versteckte Nadel.",
+    "playGame": "Auf Steam ansehen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Gameplay-Komplettlösung",
+    "vvBuilder": "Steam Store-Seite",
+    "beginnerGuide": "Anfängerleitfaden",
+    "mechanicsGuides": "Mechanik-Anleitungen",
+    "platformGuides": "Plattformhandbücher",
+    "releaseGuides": "Anleitungen zur Veröffentlichung",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

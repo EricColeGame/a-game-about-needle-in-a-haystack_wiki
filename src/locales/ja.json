@@ -1,1 +1,492 @@
-{}
+{
+  "site": {
+    "name": "A Game About Needle In A Haystack 攻略・Wiki",
+    "shortName": "針探しWiki",
+    "tagline": "針を見つけてください。干し草の山をマスターしましょう。",
+    "description": "A Game About Needle In A Haystack の道具、アップグレード、干し草の売却、針探しに役立つガイド。",
+    "legalNotice": "非公式ファンwikiです。プレイヤーによって、プレイヤーのために作られました。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "ゲームの仕組み",
+    "platforms": "プラットフォーム",
+    "release": "リリース",
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマの切り替え"
+  },
+  "guide": {
+    "overviewTitle": "A Game About Needle In A Haystack ガイド",
+    "overviewDescription": "核となる検索ループを学び、適切なタイミングで装備をアップグレードし、干し草を効率的に販売し、隠された針をより早く見つけましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "A Game About Needle In A Haystack のゲームの仕組み",
+    "overviewDescription": "漸進的な進歩、ツールの効率、干し草の収入、成功する検索実行を形作るシステムを理解します。"
+  },
+  "platforms": {
+    "overviewTitle": "A Game About Needle In A Haystack プラットフォーム",
+    "overviewDescription": "プレイできる場所を確認し、Steam の要件と機能を確認し、検索セッションに合ったプラットフォームを選択してください。"
+  },
+  "release": {
+    "overviewTitle": "A Game About Needle In A Haystack リリース",
+    "overviewDescription": "検索を開始する前に、SteamDB のリリース レコード、利用可能なアップデート情報、および現在の Steam ストアのリストを確認してください。"
+  },
+  "home": {
+    "meta": {
+      "title": "A Game About Needle In A Haystack Wiki - ガイドとヒント",
+      "description": "ツール、アップグレード、干し草の販売、ゲームプレイ、隠された針の検索をカバーするガイド A Game About Needle In A Haystack をご覧ください。"
+    },
+    "hero": {
+      "eyebrow": "ファンメイドのコミュニティ Wiki",
+      "title": "A Game About Needle In A Haystack ウィキ",
+      "description": "巨大な干し草の山の中に隠された針を見つけてください。わらを掘り、干し草を売って現金にし、道具をアップグレードし、効率的な探索方法を見つけてください。",
+      "stats": [
+        "SteamDB 発売日: 2026 年 10 月 16 日",
+        "60% ポジティブ (過去のスナップショット)",
+        "レビュー 96 件 (過去のスナップショット)",
+        "シングルプレイヤー"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ツールとアップグレード",
+      "tertiaryCta": "Steamで見る",
+      "videoLabel": "ゲームプレイのウォークスルー"
+    },
+    "updates": {
+      "title": "最新のアップデート",
+      "browse": "すべてのガイドを参照する",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始めましょう",
+      "title": "あなたの A Game About Needle In A Haystack の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "最初の探索ループを学びましょう。山を調査し、干し草を掘り起こし、すでにチェックしたエリアを追跡します。"
+        },
+        {
+          "number": "2",
+          "title": "ツールとアップグレード",
+          "description": "干し草のお金をピッチフォーク、ダイナマイト、掃除機、そして各コレクションの実行をより効率的にするアップグレードに費やしてください。"
+        },
+        {
+          "number": "3",
+          "title": "ヘイ・マネー・ループ",
+          "description": "バッグに荷物を詰めて牛のところで売り、その現金を次のツールや能力のアップグレードに戻します。"
+        },
+        {
+          "number": "4",
+          "title": "よりスマートに検索",
+          "description": "固定アンカーを使用し、一度に 1 つのセクションをクリアし、密集した中心部に移動する前にエッジを確認します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "トレンド A Game About Needle In A Haystack ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "ツールとアップグレード",
+        "検索パターン",
+        "システム要件"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "繰り返し可能な検索ルーチンから始めて、干し草のお金のループを学び、新しいプレイヤーの速度を低下させる習慣を避けてください。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "コアループ",
+          "title": "遊び方",
+          "description": "長い検索セッションに取り組む前に、発掘、収集、販売、アップグレードのループを理解してください。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "ツール",
+          "title": "ツールとアップグレード",
+          "description": "熊手、ダイナマイト、掃除機、干し草の山の中を移動する方法を形作るアップグレードを比較してください。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play"
+        },
+        {
+          "badge": "効率",
+          "title": "よりスマートに検索",
+          "description": "繰り返し可能なスイープを作成し、注意を守り、同じストローを二度覆うのをやめてください。",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "進行状況",
+          "title": "アップグレードの優先順位",
+          "description": "コレクションと販売のルーチンのボトルネックを見つけて、次の購入を選択します。",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression"
+        },
+        {
+          "badge": "参照",
+          "title": "システム要件",
+          "description": "インストールして検索を開始する前に、リストされている PC 要件を確認してください。",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "A Game About Needle In A Haystackとは何ですか?",
+      "paragraphs": [
+        "A Game About Needle In A Haystack は、Little Field Studios の一人称カジュアル シミュレーションです。2026 年 10 月 16 日に PC 向けに Steam でリリースされました。このおなじみの格言が、巨大な干し草の山を通る実践的な探索に変わります。",
+        "干し草を掘り出してバッグに詰め、集めた干し草を売って現金に換えます。そのお金でピッチフォーク、ダイナマイト、掃除機などのツールやアップグレードを購入し、隠された針を目指して作業しながら山を片付ける新しい方法を提供します。"
+      ],
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "Little Field Studios"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC（Steam経由）"
+        },
+        {
+          "label": "発売日",
+          "value": "2026 年 10 月 16 日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "カジュアルシミュレーション"
+        },
+        {
+          "label": "視点",
+          "value": "一人称"
+        },
+        {
+          "label": "モード",
+          "value": "シングルプレイヤー"
+        }
+      ],
+      "cta": "すべてのガイドを調べる"
+    },
+    "explore": {
+      "title": "A Game About Needle In A Haystack を探索してください",
+      "description": "これら 8 つのガイドを使用して、検索ループを理解し、ツールを比較し、干し草のお金を管理し、隠された針までのより迅速なルートを計画します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "A Game About Needle In A Haystack 初心者ガイド",
+          "description": "干し草の山を掘り、干し草を集め、売ってお金を稼ぎ、隠された針を探すなど、ゲームプレイの中心的なループを紹介します。新しいプレイヤーがワークショップ、在庫容量、初期の進行状況を理解できるように、実践的な開始ウォークスルーを提供します。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "掘る前に、干し草の山全体を調査し、密集したわら、開いた隙間、有用なランドマークを書き留めます。"
+            },
+            {
+              "label": "2",
+              "detail": "固定アンカーを 1 つ選択すると、スイープするたびに同じ検索レーンに戻ることができます。"
+            },
+            {
+              "label": "3",
+              "detail": "無関係なスポット間を漂うのではなく、端から端まで 1 つのセクションをクリアします。"
+            },
+            {
+              "label": "4",
+              "detail": "集めた干し草を牛まで運び、その荷物を売ってお小遣いに変えます。"
+            },
+            {
+              "label": "5",
+              "detail": "新しいツールでループが改善されたら、収益をピッチフォーク、ダイナマイト、または掃除機に費やします。"
+            },
+            {
+              "label": "6",
+              "detail": "収集が早期に終了しないように、長時間実行する前にバッグの容量を確認してください。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "A Game About Needle In A Haystack ツールとアップグレード",
+          "description": "干し草の輪の中での熊手、ダイナマイト、掃除機の役割を比較し、現在の検索を改善するところにお金を使います。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "掃除機 — 干し草を連続して集められますが、過熱することがあります。"
+            },
+            {
+              "label": "A",
+              "detail": "干し草用フォーク — 一振りでより多くの干し草を集められます。"
+            },
+            {
+              "label": "B",
+              "detail": "ダイナマイト — 干し草が密集しているときに爆発的に除去されます。"
+            },
+            {
+              "label": "C",
+              "detail": "袋の容量 — 干し草を売りに戻る回数を減らせます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "A Game About Needle In A Haystack マネー・ファーミング・ガイド",
+          "description": "干し草を掘り、袋に詰め、牛で売り、次の便利なワークショップのアップグレードを購入するという繰り返し可能なマネーループを構築します。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "1 つの集中セクションで干し草を手で掘ることで、収集ルートを簡単に繰り返すことができます。"
+            },
+            {
+              "label": "2",
+              "detail": "戻る前にバッグをいっぱいにし、短期旅行で収入が減る場合は早めに容量を購入してください。"
+            },
+            {
+              "label": "3",
+              "detail": "集めた干し草を牛まで運ぶのがこのゲームのセールスポイントです。"
+            },
+            {
+              "label": "4",
+              "detail": "わらを全部売るとワークショップのお金に変わります。"
+            },
+            {
+              "label": "5",
+              "detail": "容量、速度、熊手から始めて、現在のボトルネックを解消するアップグレードを選択してください。"
+            },
+            {
+              "label": "6",
+              "detail": "掘る、運ぶ、売るというループを繰り返し、実行ごとに優れたツールをスケールさせます。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "A Game About Needle In A Haystack 進行ガイド",
+          "description": "お金の稼ぎ、収集速度の向上、運搬能力の増加、より効果的なツールのロック解除などの進行を整理します。プレイヤーが現在のステージと針を見つけるという全体的な目標に応じてアップグレードの優先順位を付けるのを支援します。",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スピード",
+              "detail": "収集が高速化すると、その後の実行が短縮されます。"
+            },
+            {
+              "label": "容量",
+              "detail": "バッグのスペースが増えると、販売のための出張が少なくなります。"
+            },
+            {
+              "label": "ツール",
+              "detail": "資金が許す限り熊手、ダイナマイト、掃除機のロックを解除してください。"
+            },
+            {
+              "label": "アップグレード",
+              "detail": "収集と販売のループを改善する変更に投資します。"
+            },
+            {
+              "label": "ルート",
+              "detail": "パイルの変更に応じて、反復可能なスイープ パターンを調整します。"
+            },
+            {
+              "label": "ゴール",
+              "detail": "隠された針を見つけることを目的として購入したものはすべて保管してください。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "A Game About Needle In A Haystack ヒントとテクニック",
+          "description": "在庫管理、ツールの選択、収集した干し草の販売、より迅速な収集と機器の制限のバランスをとるための実践的なヒントを集めます。文書化されたゲームの仕組みに基づいた初心者向けの戦略が含まれています。",
+          "href": "/mechanics/a-game-about-needle-in-a-haystack-incremental-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アンカー",
+              "detail": "スイープごとに 1 つの固定ランドマークに戻ります。"
+            },
+            {
+              "label": "グリッド",
+              "detail": "干し草の山をいくつかのセクションに分割し、それぞれを完成させます。"
+            },
+            {
+              "label": "エッジ",
+              "detail": "密集した中心を探す前に周囲を確認してください。"
+            },
+            {
+              "label": "休憩",
+              "detail": "同じストローを再チェックし始めたら一時停止してください。"
+            },
+            {
+              "label": "売る",
+              "detail": "バッグがいっぱいになる前に、牛のところにあるバッグを片付けてください。"
+            },
+            {
+              "label": "再投資",
+              "detail": "売上金をより高速なツールやアップグレードに還元します。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "A Game About Needle In A Haystack ゲームプレイと機能",
+          "description": "一人称ゲームプレイ、干し草の山の探索、リソース収集、ワークショップのアップグレード、シングルプレイヤーのエクスペリエンスを要約します。公式ストアの説明とスクリーンショットを使用して、訪問者がプレイする前に主な仕組みを理解できるようにします。",
+          "href": "/guide/a-game-about-needle-in-a-haystack-how-to-play",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "視点",
+              "detail": "わらでいっぱいの大きな干し草の山を一人称視点で探索します。"
+            },
+            {
+              "label": "コアループ",
+              "detail": "干し草を掘って集め、牛に売り、道具やアップグレードを購入します。"
+            },
+            {
+              "label": "ツール",
+              "detail": "熊手、ダイナマイト、掃除機は、より大きな塊、アクセスの容易さ、継続的な収集をサポートします。"
+            },
+            {
+              "label": "選手",
+              "detail": "シングルプレイヤー。"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "PC 経由 Steam。"
+            },
+            {
+              "label": "客観的",
+              "detail": "干し草の山の中に隠された針を見つけてください。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "A Game About Needle In A Haystack システム要件",
+          "description": "オペレーティング システム、プロセッサ、メモリ、グラフィックスの互換性、ストレージ容量など、公式にリストされている PC の最小要件を提示します。ゲームを購入または起動する前に、プレイヤーが自分のコンピューターが公開されている要件を満たしているかどうかを確認できるようにします。",
+          "href": "/release/a-game-about-needle-in-a-haystack-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 または Windows 11、64 ビット。"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3570 または同等のもの。"
+            },
+            {
+              "label": "RAM",
+              "detail": "4ギガバイト。"
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1050 または同等のもの。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "4GBの空き容量。"
+            },
+            {
+              "label": "ネットワーク",
+              "detail": "ブロードバンドインターネット接続。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "A Game About Needle In A Haystack Steam ガイド",
+          "description": "リリース タイムライン、アプリ ID、モード、実績、プラットフォームの詳細など、A Game About Needle In A Haystack について検証された Steam の事実を確認します。",
+          "href": "/platforms/a-game-about-needle-in-a-haystack-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アプリID",
+              "detail": "5321400、SteamDB。"
+            },
+            {
+              "label": "打ち上げ",
+              "detail": "2026 年 10 月 16 日 17:22:52 UTC。"
+            },
+            {
+              "label": "初めて見た",
+              "detail": "2026 年 9 月 23 日、SteamDB。"
+            },
+            {
+              "label": "スタジオ",
+              "detail": "Little Field Studios がゲームを開発、公開しました。"
+            },
+            {
+              "label": "特徴",
+              "detail": "シングルプレイヤーのみ、実績は Steam 、統計は Steam です。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "A Game About Needle In A Haystack よくある質問",
+      "description": "A Game About Needle In A Haystack に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "A Game About Needle In A Haystackとは何ですか?",
+          "answer": "A Game About Needle In A Haystack は、Little Field Studios の一人称視点のカジュアル シミュレーションです。巨大な干し草の山を掘って、干し草を集めて売り、ツールやアップグレードを購入し、隠された針を見つけるまで探し続けます。"
+        },
+        {
+          "question": "A Game About Needle In A Haystackはどうやってプレイしますか？",
+          "answer": "A Game About Needle In A Haystack では、整理整頓されたセクションで干し草の山を検索し、干し草を掘り出し、集めたものを牛まで運んで売ります。そのお金は、より多くの干し草を刈り取り、狩猟を続けるのに役立つ、より優れたツールとアップグレードに支払われます。"
+        },
+        {
+          "question": "A Game About Needle In A Haystack ではどのようなツールが利用できますか?",
+          "answer": "A Game About Needle In A Haystack では、熊手、ダイナマイト、掃除機がそれぞれ異なる方法で干し草を処理します。用途を比較し、現在の検索ルートと予算に合わせてオプションをアップグレードしてください。"
+        },
+        {
+          "question": "A Game About Needle In A Haystackでどうやってお金を稼ぐのですか？",
+          "answer": "A Game About Needle In A Haystack では、バッグがいっぱいになるまで干し草を集め、牛で売り、その現金をツールやアップグレードに再投資します。安定した収集、販売、アップグレードのループが、進歩を遂げる最も信頼できる方法です。"
+        },
+        {
+          "question": "A Game About Needle In A Haystack はシングルプレイヤーですか?",
+          "answer": "はい。 A Game About Needle In A Haystack は Steam にシングル プレイヤー ゲームとしてリストされているため、探索ループは 1 人のプレイヤーが自分のペースで干し草の山を探索することを中心に構築されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "針を見つける準備はできましたか?",
+      "description": "コミュニティ ガイドで、干し草の掘り方、販売方法、便利なアップグレードの選択方法を学びましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamで見る"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "updated": "更新されました",
+    "playOnSteam": "Steamで見る",
+    "inThisSection": "このセクションでは",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか?",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだ利用可能なガイドはありません。すぐにまたチェックしてください!"
+  },
+  "footer": {
+    "aboutTitle": "A Game About Needle In A Haystack 攻略・Wiki",
+    "about": "A Game About Needle In A Haystack Wiki は、干し草の山の探索、ツールのアップグレード、金儲けの戦略、初心者とベテランのプレイヤーに必要なゲーム知識を網羅する独立したファン作成のガイド ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 A Game About Needle In A Haystack Wiki。Little Field Studios および Steam とは提携していません。",
+    "description": "シングルプレイヤーの一人称視点の干し草の山シミュレーター。わらを掘り、干し草を売り、隠された針を見つけます。",
+    "playGame": "Steamで見る",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "ゲームプレイのウォークスルー",
+    "vvBuilder": "Steam ストアページ",
+    "beginnerGuide": "初心者ガイド",
+    "mechanicsGuides": "ゲームの仕組み",
+    "platformGuides": "プラットフォームガイド",
+    "releaseGuides": "リリースガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
