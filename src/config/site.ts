@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -25,7 +27,7 @@ export const siteConfig: SiteConfig = {
   logoText: "A",
   tagline: "Find the Needle. Master the Haystack.",
   description: "Find the needle faster with A Game About Needle In A Haystack guides, tool and upgrade tips, hay-selling strategies, gameplay help, and achievement advice.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://a-game-about-needle-in-a-haystack.wiki",
+  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://a-game-about-needle-in-a-haystack.wiki").replace(/\/+$/, ""),
   supportEmail: "support@a-game-about-needle-in-a-haystack.wiki",
   gameUrl: "https://store.steampowered.com/app/5321400/A_Game_About_Needle_In_A_Haystack/",
   heroVideoId: "szT7VS6cu08", // Full gameplay walkthrough
@@ -33,6 +35,6 @@ export const siteConfig: SiteConfig = {
     steamCommunity: "https://steamcommunity.com/app/5321400/",
     youtube: "https://www.youtube.com/watch?v=szT7VS6cu08",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: routing.locales,
   defaultLocale: "en",
 };
